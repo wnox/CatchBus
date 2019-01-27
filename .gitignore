@@ -1,3 +1,5 @@
 console.test/bin
 console.test/obj
+web/bin
+web/obj
 .vscode/
