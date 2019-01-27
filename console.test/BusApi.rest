@@ -1,0 +1,13 @@
+###查询线路名称
+GET http://60.216.101.229/server-ue2/rest/buslines/simple/370100/BRT
+    version:android-insigma.waybook.jinan-2349
+
+
+###查询线路站点
+GET http://60.216.101.229/server-ue2/rest/buslines/370100/432
+    version:android-insigma.waybook.jinan-2349
+
+
+###查询线路车辆
+GET http://60.216.101.229/server-ue2/rest/buses/busline/370100/432
+    version:android-insigma.waybook.jinan-2349
